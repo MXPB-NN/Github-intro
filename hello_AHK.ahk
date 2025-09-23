@@ -3,4 +3,4 @@
     MsgBox "Hi"
 
 
-    MsgBox "lets get this party started2"
+    MsgBox "lets get this party started"
