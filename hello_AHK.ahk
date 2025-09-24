@@ -15,6 +15,9 @@
     MouseMove(200,500)
     }
 
+
+MsgBox "hello"
+
 ; hi this is a comment
 ; hi this is another comment
 ; hi this is a third comment
