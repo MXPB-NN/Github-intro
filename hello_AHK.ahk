@@ -12,7 +12,10 @@
     ^4::
     {
     MouseMove(500,200)
-    Sleep 500
+    Sleep 5000
     MouseMove(200,500)
-    return
     }
+
+; hi this is a comment
+; hi this is another comment
+; hi this is a third comment
