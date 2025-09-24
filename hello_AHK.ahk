@@ -3,9 +3,8 @@
     MsgBox "hello Linea and Ana"
     MsgBox "Hi again"
     MsgBox "Hi"
-    MsgBox "this is malte branch"
-    MsgBox "this is miss Robot"
-    MsgBox "hej guys"
+
+    MsgBox "lets get this party started"
     return
     }
 
